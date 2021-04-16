@@ -1,0 +1,4 @@
+Client errors start with the number 4. It indicates that the problem is on your side. This may be because that you have written the wrong website address.
+Server errors start with the number 5. It indicates that the problem is on the server's side. This may be because of server updates or that the server is overloaded.
+
+Other errors are less common but they will be explained.
